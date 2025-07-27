@@ -46,3 +46,19 @@ A full-stack **video sharing platform** where users can upload, watch, like, and
 ```bash
 git clone https://github.com/your-username/viewVerse.git
 cd viewVerse
+```
+
+### 2. Setup backend
+
+```bash
+cd server
+npm install
+```
+### 2. Setup Frontend
+
+```bash
+cd ../client
+npm install
+npm start
+```
+
