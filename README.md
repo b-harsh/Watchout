@@ -1,4 +1,4 @@
-# ViewVerse 🎬
+# Watchout 🎬
 
 A full-stack **video sharing platform** where users can upload, watch, like, and comment on short videos. Built with **React.js**, **TailwindCSS**, **Node.js**, **Express.js**, and **MongoDB**. Supports secure authentication and efficient media delivery.
 
